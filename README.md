@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nashia Fatma
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nashia
 ====================================================================================================================================
 
 Full Stack Developer
 --------------------
 
 A Full Stack Developer who has mostly worked on MERN :)
+<img align="right" alt="coding" width="300" src= "https://media.tenor.com/3jl3emrg-H0AAAAM/hello.gif">
 
 * ✉️  You can contact me at [nashiafatma107@gmail.com](mailto:nashiafatma107@gmail.com)
 * 🧠  I'm learning Playwright, GenAI and Game Development (Unreal Engine)
@@ -14,6 +15,8 @@ A Full Stack Developer who has mostly worked on MERN :)
 src="https://img.shields.io/github/followers/nashiaxz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
+
+
 
 
 <p align="left">
