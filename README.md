@@ -9,7 +9,7 @@ A Full Stack Developer who has mostly worked on MERN :)
 
 * 💻  I am a Data Engineer at NielsenIQ.
 * 🧠  I'm learning GenAI and Game Development (Unreal Engine).
-* ⚡  I have 1.5 years of experience on testing and automating web apps using Selenium & TestNg.
+* ⚡  I have 1.5 years of experience in testing and automating web apps using Selenium & TestNg.
 * 🛠️  Switched to automation with Playwright and Python about a year ago, loving it so far!
 * ✉️  You can contact me at [nashiafatma107@gmail.com](mailto:nashiafatma107@gmail.com)
 
